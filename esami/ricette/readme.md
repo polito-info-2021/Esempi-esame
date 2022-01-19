@@ -44,6 +44,6 @@ Fontina - 200.0
 Burro - 200.0
 
 Numero di ingredienti: 4
-Costo ricetta: 7.52
-Calorie ricetta: 2928.00
+Costo ricetta: 8.62
+Calorie ricetta: 4738.00
 ```
