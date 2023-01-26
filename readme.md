@@ -1,3 +1,10 @@
+<hr>
+
+## :warning: ATTENZIONE: Questo repository è obsoleto (aggiornato al 2021/22) :warning:
+## :arrow_right: [Accedi al repository aggiornato del 2022/23](https://github.com/polito-info-2022/Esempi-esame)
+
+<hr>
+
 # Esempi di esercizi simil-esame
 
 I seguenti esercizi sono delle esercitazioni, di difficoltà simile a quella dell'esame, per esercitarsi e migliorare la
